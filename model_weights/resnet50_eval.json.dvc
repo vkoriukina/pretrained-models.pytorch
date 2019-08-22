@@ -1,0 +1,9 @@
+md5: 0751660f6c3fb4c062dec7b6c48b278b
+wdir: .
+outs:
+- md5: 23a87e0cd8daa9163ac562fd7a18e132
+  path: resnet50_eval.json
+  cache: true
+  metric:
+    type: raw
+  persist: false
